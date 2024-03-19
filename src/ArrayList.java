@@ -3,7 +3,7 @@
 public class ArrayList {
 
 	public static void main(String[] args) {
-		// Java has many interfaces such as Link etc and all these interfaces have their own implementations such as ArrayList
+		// Java has many interfaces such as List etc and all these interfaces have their own implementations such as ArrayList
 		// <> this sign indicates Generic Programming
 		java.util.List<Integer> grades = new java.util.ArrayList<Integer>(); 
 		grades.add(5);
